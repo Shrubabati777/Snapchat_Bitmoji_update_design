@@ -7,3 +7,4 @@ This is a Figma design of the Snapchat interface, showcasing the updated 3D bitm
 The addition of animals is not only limited to our bitmoji previews. The filters which show little animations with our bitmojis will now include their tiny buddies as well. 
 
 This feature is designed by an animal lover with the belief that everything gets a little brighter when a bark, a grunt, a purr or a neigh is added to it. ❤
+#Snapchat #Bitmoji
